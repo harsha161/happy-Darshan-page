@@ -1,2 +1,2 @@
-# login-reg-forgotpass
+# login-reg-forgotpass-pages of the index -about us-etc...
 by using the  frontend process 
